@@ -26,6 +26,7 @@ Currently, I work as a **Freelance Software Developer**, helping clients archite
 * Web API
 * Blazor
 * React
+* Next.js
 * Angular
 * Node.js
 * Entity Framework Core
